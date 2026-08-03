@@ -1,34 +1,51 @@
-# 👋 Hi, I'm Naveen Vinayak Desai
+<!-- ======================= HEADER ======================= -->
 
-### 💻 Aspiring Web Developer | 🚀 Building for the Web | 🌱 Always Learning
+<h1 align="center">
+  <img src="./profile.png" alt="Naveen Vinayak Desai" width="100" height="100" style="border-radius: 50%;" />
+  <br>
+  Hi 👋, I'm Naveen Vinayak Desai
+</h1>
 
-Welcome to my GitHub profile! I'm **Naveen Vinayak Desai**, an aspiring **Web Developer** passionate about creating modern, responsive, and user-friendly web experiences.
+<h3 align="center">
+  💻 Aspiring Web Developer | 🚀 Building the Web | 🌱 Always Learning
+</h3>
 
-I enjoy turning ideas into real-world projects, learning new technologies, and continuously improving my development skills.
+<p align="center">
+  <a href="https://www.linkedin.com/in/naveen-v-desai-817b23375">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:naveen15506@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-* 👨‍💻 I'm currently focused on becoming a **Full-Stack / Web Developer**
-* 🌱 Learning and improving my **Web Development** skills
-* 🛠️ Building projects to strengthen my practical knowledge
-* 🎯 Goal: Become a skilled and industry-ready Web Developer
-* 💡 Interested in **Frontend, Backend, APIs, and Modern Web Technologies**
-* 📚 I believe in **learning by building**
-* 🤝 Open to collaborating on interesting web development projects
+Hello! I'm **Naveen Vinayak Desai**, an aspiring **Web Developer** passionate about building modern, responsive, and user-friendly web applications.
+
+I enjoy transforming ideas into real-world projects and continuously improving my programming and development skills.
+
+- 💻 Passionate about **Web Development**
+- 🌱 Currently learning and improving my development skills
+- 🚀 Interested in building **real-world applications**
+- 🎯 Working towards becoming a **professional Full-Stack Developer**
+- 🧠 I believe in **learning by building**
+- 🤝 Open to collaboration and exciting development opportunities
+- 📚 Always curious to learn new technologies
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Tech Stack
 
-### 🌐 Frontend
+### 🌐 Frontend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
 </p>
 
-### ⚙️ Backend
+### ⚙️ Backend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,python" />
@@ -40,13 +57,28 @@ I enjoy turning ideas into real-world projects, learning new technologies, and c
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
 </p>
 
-### 🛠️ Tools & Technologies
+### 🔧 Tools & Technologies
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
 </p>
 
-> 📌 *This tech stack will continue to grow as I learn and build more projects.*
+> 🚀 My technology stack is continuously growing as I learn and build new projects.
+
+---
+
+## 🚀 What I'm Working On
+
+I'm currently focused on improving my skills in:
+
+- 🌐 Responsive Web Design
+- ⚡ JavaScript & Modern Web Development
+- ⚛️ React Development
+- 🔧 Backend Development
+- 🔗 REST APIs
+- 🗄️ Database Management
+- 🔐 Authentication & Authorization
+- 🚀 Full-Stack Web Applications
 
 ---
 
@@ -54,81 +86,120 @@ I enjoy turning ideas into real-world projects, learning new technologies, and c
 
 ### 🌐 Web Development Projects
 
-I'm currently working on projects that demonstrate my understanding of:
+I'm building projects to gain practical experience and solve real-world problems.
 
-* Responsive Web Design
-* JavaScript & Modern Web Development
-* Frontend Applications
-* Backend & REST APIs
-* Database Integration
-* Authentication & Authorization
-* Full-Stack Web Applications
+Some of the areas I'm exploring:
 
-> 🚧 More projects coming soon!
+- 🖥️ Responsive Websites
+- ⚛️ React Applications
+- 🔗 REST API Integration
+- 🔐 Authentication Systems
+- 🗄️ Database Applications
+- 🚀 Full-Stack Applications
+
+> 🚧 More exciting projects coming soon!
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+    alt="Naveen's GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" 
+    alt="Naveen's Top Languages"
+  />
 </p>
 
 ---
 
-## 🔥 Contribution Streak
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img 
+    src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" 
+    alt="Naveen's GitHub Streak"
+  />
 </p>
 
 ---
 
-## 🐍 My Contribution Graph
+## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" 
+    alt="Naveen's GitHub Activity Graph"
+  />
 </p>
 
 ---
 
 ## 🎯 2026 Goals
 
-* 🚀 Become a professional Web Developer
-* 📚 Strengthen my JavaScript fundamentals
-* ⚛️ Build real-world frontend applications
-* 🔧 Learn and improve backend development
-* 🗄️ Gain deeper knowledge of databases
-* 🌍 Build and deploy production-ready applications
-* 🤝 Contribute to open-source projects
-* 💼 Prepare for exciting opportunities in the software industry
+- 🚀 Become a skilled professional Web Developer
+- 📚 Master JavaScript and modern web technologies
+- ⚛️ Build advanced React applications
+- 🔧 Improve backend development skills
+- 🗄️ Gain deeper knowledge of databases
+- 🌍 Build and deploy production-ready applications
+- 🤝 Contribute to open-source projects
+- 💼 Prepare for opportunities in the software industry
 
 ---
 
-## 💭 My Developer Philosophy
+## 💡 Developer Philosophy
 
 > **"Don't just learn to code. Build, break, fix, and learn."**
 
-I believe the best way to become a better developer is to keep experimenting, building projects, solving problems, and learning from mistakes.
+I believe that becoming a great developer isn't just about knowing programming languages.
+
+It's about **building projects, solving problems, making mistakes, learning from them, and continuously improving.**
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+
+  <a href="https://www.linkedin.com/in/naveen-v-desai-817b23375">
+    <img src="https://img.shields.io/badge/LinkedIn-Naveen%20Vinayak%20Desai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+
+  <a href="mailto:naveen15506@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-naveen15506%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
+</p>
+
+<p align="center">
+  📱 <b>Phone:</b> +91 79814 34815
 </p>
 
 ---
 
+## 👀 Profile Visitors
+
 <p align="center">
-  <b>⭐ Thanks for visiting my profile!</b>
-  <br/>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+</p>
+
+---
+
+<h3 align="center">
+  ⭐ Thanks for visiting my profile!
+</h3>
+
+<p align="center">
   <i>Let's build something amazing together 🚀</i>
+</p>
+
+<p align="center">
+  💻 Code • 🚀 Build • 📚 Learn • 🔥 Repeat
 </p>
