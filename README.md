@@ -1,205 +1,105 @@
-<!-- ======================= HEADER ======================= -->
+<!-- ========================================================= -->
+<!--                    PROFILE HEADER                        -->
+<!-- ========================================================= -->
 
-<h1 align="center">
-  <img src="./profile.png" alt="Naveen Vinayak Desai" width="100" height="100" style="border-radius: 50%;" />
-  <br>
-  Hi 👋, I'm Naveen Vinayak Desai
-</h1>
+<table>
+<tr>
+<td width="65%" valign="top">
 
-<h3 align="center">
-  💻 Aspiring Web Developer | 🚀 Building the Web | 🌱 Always Learning
-</h3>
+# 👋 Hello, I'm
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/naveen-v-desai-817b23375">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:naveen15506@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
+# **NAVEEN VINAYAK DESAI**
+
+### 💻 Aspiring Web Developer • 🚀 Full-Stack Enthusiast
+
+Building modern web applications, learning new technologies, and turning ideas into real-world projects.
+
+<br>
+
+### 🚀 About Me
+
+- 🎓 Passionate about **Web Development**
+- 💻 Learning **Frontend & Backend Development**
+- 🌐 Interested in building modern and responsive websites
+- 🧠 Learning by building real-world projects
+- 🚀 Working towards becoming a **Full-Stack Developer**
+- 📚 Always exploring new technologies
+- 🤝 Open to collaboration and exciting opportunities
+- ⚡ Believe in **Build • Learn • Improve**
+
+<br>
+
+<a href="mailto:naveen15506@gmail.com">
+<img src="https://img.shields.io/badge/MAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/naveen-v-desai-817b23375">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</td>
+
+<td width="35%" align="center" valign="middle">
+
+<img src="./profile.png" width="280" alt="Naveen Vinayak Desai" />
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-Hello! I'm **Naveen Vinayak Desai**, an aspiring **Web Developer** passionate about building modern, responsive, and user-friendly web applications.
+I'm **Naveen Vinayak Desai**, an aspiring Web Developer who enjoys creating websites and applications that are clean, responsive, and user-friendly.
 
-I enjoy transforming ideas into real-world projects and continuously improving my programming and development skills.
+I'm continuously working on improving my programming and development skills through hands-on projects.
 
-- 💻 Passionate about **Web Development**
-- 🌱 Currently learning and improving my development skills
-- 🚀 Interested in building **real-world applications**
-- 🎯 Working towards becoming a **professional Full-Stack Developer**
-- 🧠 I believe in **learning by building**
-- 🤝 Open to collaboration and exciting development opportunities
-- 📚 Always curious to learn new technologies
+My goal is to become a strong **Full-Stack Developer** and build applications that solve real-world problems.
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### 🌐 Frontend Development
+## 🌐 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
 </p>
 
-### ⚙️ Backend Development
+## ⚙️ Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python" />
 </p>
 
-### 🗄️ Databases
+## 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
 </p>
 
-### 🔧 Tools & Technologies
+## 🔧 Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
-</p>
-
-> 🚀 My technology stack is continuously growing as I learn and build new projects.
-
----
-
-## 🚀 What I'm Working On
-
-I'm currently focused on improving my skills in:
-
-- 🌐 Responsive Web Design
-- ⚡ JavaScript & Modern Web Development
-- ⚛️ React Development
-- 🔧 Backend Development
-- 🔗 REST APIs
-- 🗄️ Database Management
-- 🔐 Authentication & Authorization
-- 🚀 Full-Stack Web Applications
-
----
-
-## 📌 Featured Projects
-
-### 🌐 Web Development Projects
-
-I'm building projects to gain practical experience and solve real-world problems.
-
-Some of the areas I'm exploring:
-
-- 🖥️ Responsive Websites
-- ⚛️ React Applications
-- 🔗 REST API Integration
-- 🔐 Authentication Systems
-- 🗄️ Database Applications
-- 🚀 Full-Stack Applications
-
-> 🚧 More exciting projects coming soon!
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
-    alt="Naveen's GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" 
-    alt="Naveen's Top Languages"
-  />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm" />
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🚀 What I'm Learning
 
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" 
-    alt="Naveen's GitHub Streak"
-  />
-</p>
-
----
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" 
-    alt="Naveen's GitHub Activity Graph"
-  />
-</p>
-
----
-
-## 🎯 2026 Goals
-
-- 🚀 Become a skilled professional Web Developer
-- 📚 Master JavaScript and modern web technologies
-- ⚛️ Build advanced React applications
-- 🔧 Improve backend development skills
-- 🗄️ Gain deeper knowledge of databases
-- 🌍 Build and deploy production-ready applications
-- 🤝 Contribute to open-source projects
-- 💼 Prepare for opportunities in the software industry
-
----
-
-## 💡 Developer Philosophy
-
-> **"Don't just learn to code. Build, break, fix, and learn."**
-
-I believe that becoming a great developer isn't just about knowing programming languages.
-
-It's about **building projects, solving problems, making mistakes, learning from them, and continuously improving.**
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-
-  <a href="https://www.linkedin.com/in/naveen-v-desai-817b23375">
-    <img src="https://img.shields.io/badge/LinkedIn-Naveen%20Vinayak%20Desai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="mailto:naveen15506@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-naveen15506%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-</p>
-
-<p align="center">
-  📱 <b>Phone:</b> +91 79814 34815
-</p>
-
----
-
-## 👀 Profile Visitors
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-</p>
-
----
-
-<h3 align="center">
-  ⭐ Thanks for visiting my profile!
-</h3>
-
-<p align="center">
-  <i>Let's build something amazing together 🚀</i>
-</p>
-
-<p align="center">
-  💻 Code • 🚀 Build • 📚 Learn • 🔥 Repeat
-</p>
+```text
+🌐 Web Development
+        ↓
+🎨 Frontend Development
+        ↓
+⚡ JavaScript
+        ↓
+⚛️ React
+        ↓
+🔧 Backend Development
+        ↓
+🗄️ Databases
+        ↓
+🚀 Full-Stack Development
